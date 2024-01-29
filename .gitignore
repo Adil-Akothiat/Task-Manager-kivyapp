@@ -1,0 +1,13 @@
+# created by virtualenv automatically
+__pycache__
+todoapp
+canvas
+fonts
+lib
+bin
+animals.py
+app.py
+exercices.py
+my.kv
+pyvenv.cfg
+text
